@@ -1,2 +1,2 @@
-# basic_adb
+# Easy adb
 Ease for adb
